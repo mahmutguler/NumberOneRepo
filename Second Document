@@ -1,2 +1,6 @@
 Hello Word!
 In this second file, line wrap mode was selected as Soft wrap option.
+
+After creating the second file, I was checking the documet and saw that there is view options such as Raw and Blamde style. 
+Raw style is the show the document with a whtie backgorund to hide all distraction. But the other one more elaborate than the normal view.
+And I am going to commit this file edits as a branch to the main repo.
